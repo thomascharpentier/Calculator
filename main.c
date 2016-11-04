@@ -8,7 +8,7 @@ int addition(int a, int b)
 
 int main()
 {
-    L’addition de a et de b vaut %d\n", addition(1,4));
+    printf("a+b=%d\n", addition(1,4));
 
 
 
